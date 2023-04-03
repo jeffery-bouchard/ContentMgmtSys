@@ -1,2 +1,2 @@
 # ContentMgmtSys
-Content managment system for blog
+This project is a content managment system written in PHP for a website that contains a blog and a simple ecommerce store. A limited selection of code has been released as this project pertains to an active website with store front. The common bootstrap and functions source files are included along with the classes used to obtain data from a MySQL database, and connect to Square checkout APIs for the ecommerce store.
